@@ -4,9 +4,11 @@
 #   [filename within code directory][tab character \t][subsection title]
 
 [Java]
+Java-IO.java	Java IO
 SegmentTree.java	Segment tree
 MathsAlgo.java	 Maths algorithms
-BasicAlgo.java	 Badic algortihms
+BasicAlgo.java	 Basic algortihms
+AVLTree.java	AVL tree
 
 [Combinatorial optimization]
 Dinic.cc	Dinic's Algo for Sparse max-flow
