@@ -62,3 +62,4 @@ if __name__ == "__main__":
         f.write(tex)
     #latexmk_options = ["latexmk", "-pdf", "notebook.tex"]
     #subprocess.call(latexmk_options)
+    input()

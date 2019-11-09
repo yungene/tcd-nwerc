@@ -19,7 +19,7 @@ MinCostMaxFlow.cc	Min cost Max Flow
 [Geometry]
 ConvexHull.cc	Convex hull
 Geometry.cc	Miscellaneous geometry
-# Geometry.java	Geometry using Java Libraries
+Geometry.java	Geometry using Java Libraries
 Delaunay.cc	Delaunay Triangulation
 
 [Numerical algorithms]
@@ -36,7 +36,8 @@ CSP.cc	Constraint Satisfaction Problem
 FastDijkstra.cc	Fast Dijkstra's algorithm
 TopologicalSort.cc	Topological sort (C++)
 UnionFind.cc	Union-find set(aka DSU)
-SCC.cc	Strongly connected components
+Kosaraju.cpp	Kosaraju Strongly conencted components
+# SCC.cc	Strongly connected components
 BellmanFord.cc	Bellman Ford's algorithm
 Kruskal.cc	Minimum Spanning Tree: Kruskal
 EulerianPath.cc	Eulerian Path Algo
@@ -51,12 +52,13 @@ ClosestPair.cc	Closest Pair of points in a 2D Plane
 BIT.cc	Binary Indexed Tree
 BIT2D.cc	BIT for 2-D plane questions
 LCA.cc	Lowest common ancestor
-segTreeN.cc	Segment tree class for range minima query
+# segTreeN.cc	Segment tree class for range minima query
 lazyProp.cc	Lazy Propogation for Range update and Query
 RMQ.cc	Range minima query in O(1) tiime using lookup matrix
 
 [String Manipulation]
-KMP.cc	Knuth-Morris-Pratt
+# KMP.cc	Knuth-Morris-Pratt
+KMPJava.java	KMP
 SuffixArray_new.cc	Suffix array
 SuffixTree.cc	Suffix tree
 ahoCorasick.cc	Aho Corasick Structure for string matching

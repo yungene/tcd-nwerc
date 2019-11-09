@@ -1,5 +1,4 @@
 public class BasicAlgo {
-
   public static int binarySearch(int[] arr, int val) {
     int lo = 0;
     int hi = arr.length;
