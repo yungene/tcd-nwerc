@@ -19,8 +19,9 @@ MinCostMaxFlow.cc	Min cost Max Flow
 [Geometry]
 ConvexHull.cc	Convex hull
 Geometry.cc	Miscellaneous geometry
-Geometry.java	Geometry using Java Libraries
-Delaunay.cc	Delaunay Triangulation
+# Geometry.java	Geometry using Java Libraries
+Delaunay.cc	Delaunay Triangulation 
+GeometryShort.java	Geometry using Java Libraries
 
 [Numerical algorithms]
 FFT_new.cc	Fast Fourier transform
@@ -28,7 +29,7 @@ Euclid.cc	Euclid and Fermat's Theorem
 sieve.cc	Sieve for Prime Numbers
 FastExpo.cc	Fast exponentiation
 Simplex.cc	Simplex Algorithm, Linear Programming
-CSP.cc	Constraint Satisfaction Problem
+# CSP.cc	Constraint Satisfaction Problem
 
 [Graph algorithms]
 # BFS.cc	BFS
@@ -60,7 +61,7 @@ RMQ.cc	Range minima query in O(1) tiime using lookup matrix
 # KMP.cc	Knuth-Morris-Pratt
 KMPJava.java	KMP
 SuffixArray_new.cc	Suffix array
-SuffixTree.cc	Suffix tree
+# SuffixTree.cc	Suffix tree
 ahoCorasick.cc	Aho Corasick Structure for string matching
 Tries.cc	Tries Structure for storing strings
 Treaps.cc	Treaps Data structure implementation
@@ -76,6 +77,7 @@ MillerRabin.cc	Miller-Rabin Primality Test
 BinSearch.cc	Binary Search
 Dates.cc	Playing with dates
 # regex.java	Regular expressions handling using JAVA
+Ternary.cpp	Ternary search
 Hash.cc	Hashing
 Mobius.cc	Mobius function
 Mo.cc	Mo's Algorithm
